@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="25" viewBox="0 0 29 25">
+  <g id="Icons_file-records" data-name="Icons/ file-records" transform="translate(1 1)">
+    <g id="Icons_file-records-2" data-name="Icons/ file-records" transform="translate(0)">
+      <path id="Path" d="M26.481,22.268,15.058,4.182,12.462,0H2.077A2.09,2.09,0,0,0,0,2.091V20.909A2.09,2.09,0,0,0,2.077,23H24.923A2.09,2.09,0,0,0,27,20.909V6.273a2.09,2.09,0,0,0-2.077-2.091H15.058" transform="translate(0)" fill="none" stroke="#bbc7db" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-2" data-name="Path" d="M0,.75H7.269" transform="translate(4.154 8.659)" fill="none" stroke="#bbc7db" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-3" data-name="Path" d="M0,.75H4.154" transform="translate(4.154 12.841)" fill="none" stroke="#bbc7db" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 20.017 23.62">
+    <g id="Icon_feather-user-check" data-name="Icon feather-user-check" transform="translate(1 1)">
+        <path id="Path_2355" data-name="Path 2355"
+            d="M19.517,29.707V27.3a4.8,4.8,0,0,0-4.8-4.8H6.3a4.8,4.8,0,0,0-4.8,4.8v2.4"
+            transform="translate(-1.5 -9.087)" fill="none" stroke="#bbc7db" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="1.8" />
+        <path id="Path_2356" data-name="Path 2356"
+            d="M16.359,9.3a4.8,4.8,0,1,1-4.8-4.8A4.8,4.8,0,0,1,16.359,9.3Z"
+            transform="translate(-2.546 -4.5)" fill="none" stroke="#bbc7db" stroke-linecap="round"
+            stroke-linejoin="round" stroke-width="1.8" />
+    </g>
+</svg>
